@@ -1,0 +1,151 @@
+﻿  Source.cpp
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(104,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(105,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(111,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(115,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(116,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(124,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(125,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(127,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(134,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(136,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(137,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(142,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(143,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(145,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(158,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(159,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(164,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(165,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(167,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(173,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(174,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(176,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(197,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(198,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(260,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(261,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(263,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(264,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(267,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(268,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(282,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(283,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(284,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(285,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(286,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(289,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(303,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(328,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(329,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(330,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(331,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(342,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(346,1): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(402,18): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(403,19): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(404,18): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(405,19): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(407,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(426,18): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(427,19): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(428,18): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(429,19): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(431,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(449,18): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(450,19): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(451,18): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(452,19): warning C4244: '=': conversion from 'genType' to 'int', possible loss of data
+          with
+          [
+              genType=float
+          ]
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(454,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(399,18): warning C4101: 'distance': unreferenced local variable
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(498,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(499,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(503,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(506,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(525,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(526,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(527,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(528,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(550,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(554,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(560,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(560,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(573,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(574,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(581,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(582,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(617,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(618,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(619,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(621,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(622,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(679,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(680,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(690,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(691,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(696,47): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(697,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(702,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(703,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(708,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(709,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(714,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(723,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(731,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(735,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(648,3): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(651,3): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(654,3): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(657,3): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(754,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Axel\source\repos\DH2323 Project\DH2323 Project\Source.cpp(755,21): warning C4018: '<': signed/unsigned mismatch
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  DH2323 Project.vcxproj -> C:\Users\Axel\source\repos\DH2323 Project\Debug\DH2323 Project.exe
